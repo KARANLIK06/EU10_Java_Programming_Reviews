@@ -1,0 +1,7 @@
+Task 2:
+
+Create an Animal class has a functionality (move()) that
+we will creat some classes
+Bird    -----> flying
+Cow   -----> walking
+Flower  -----> not moving
